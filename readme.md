@@ -1,1 +1,1 @@
-// Implementing Speech Emotion Recognition Using War2Vec2 Model. 
+// Implementing Speech Emotion Recognition Using Wav2Vec Model. 
